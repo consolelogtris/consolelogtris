@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @consolelogtris
-- 👀 I’m interested in tech! duhh
+- 👀 I’m interested in ... tech! duhh
 - 🌱 I’m currently learning HTML, CSS and JS
 
 <!---
