@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @consolelogtris
-- 👀 I’m interested in ... tech! duhh
-- 🌱 I’m currently learning HTML, CSS and JS
+- 👀 Passionate about tech, language learning and my cat
+- 🌱 I’m currrently learning Python 
 
 <!---
 consolelogtris/consolelogtris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
